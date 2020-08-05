@@ -1,4 +1,4 @@
-#!/Yonela/bin/bash
+#!/Xolisa/bin/bash
 FILE=/script_answers.txt
 
 if test -f "$FILE"; then
