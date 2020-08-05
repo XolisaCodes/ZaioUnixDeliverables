@@ -1,5 +1,5 @@
 #!/bin/bash
-#Yonela Sitokwe
+#Xolisa Runeyi
 
 for i in {1..99}
 do
