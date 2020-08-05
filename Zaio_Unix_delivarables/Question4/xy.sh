@@ -1,5 +1,5 @@
 #!bin/bash
-#Yonela Sitokwe
+#Xolisa Runeyi
 
 read -p "Enter X:" x;
 read -p "Enter Y:" y;
